@@ -1,8 +1,10 @@
-# BattleTech Tools
+# NonCanon BattleTech Tools
 
 ## Purpose
 
-The purpose of these tools is to have a centralized, accessible set of tools for 'mech creation and eventually force building.
+[Fork of Jeff's BattleTech Tools](https://github.com/jdgwf/battletech-tools), intended for creating non-BT rules compliant 'Mechs.
+
+The purpose of these tools is to have a centralized, accessible set of tools for fanfic 'mech creation and possibly force building.
 
 ## Development
 
