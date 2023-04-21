@@ -2,7 +2,7 @@
   "name": "battletech-tools",
   "version": "0.6.3",
   "private": true,
-  "homepage": "https://jdgwf.github.io/battletech-tools",
+  "homepage": "https://korgano.github.io/battletech-tools",
   "scripts": {
     "start": "react-scripts start",
     "dev": "react-scripts start",
