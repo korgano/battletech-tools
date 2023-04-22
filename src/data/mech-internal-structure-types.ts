@@ -157,6 +157,158 @@ export const mechInternalStructureTypes: IInternalStructure[] = [
 		reintroduced: 0
 	},
 	{
+		name: "Optimized Standard",
+		tag: "opt-standard",
+		crits: {
+			clan: 0,
+			is: 0
+		},
+
+		perTon: {
+			20: {
+				tonnage: 1.8,
+				head: 3,
+				centerTorso: 6,
+				rlTorso: 5,
+				rlArm: 3,
+				rlLeg: 4
+			},
+			25: {
+				tonnage: 2.25,
+				head: 3,
+				centerTorso: 8,
+				rlTorso: 6,
+				rlArm: 4,
+				rlLeg: 6
+			},
+			30: {
+				tonnage: 2.7,
+				head: 3,
+				centerTorso: 10,
+				rlTorso: 7,
+				rlArm: 5,
+				rlLeg: 7
+			},
+			35: {
+				tonnage: 3.15,
+				head: 3,
+				centerTorso: 11,
+				rlTorso: 8,
+				rlArm: 6,
+				rlLeg: 8
+			},
+			40: {
+				tonnage: 3.6,
+				head: 3,
+				centerTorso: 12,
+				rlTorso: 10,
+				rlArm: 6,
+				rlLeg: 10
+			},
+			45: {
+				tonnage: 4.05,
+				head: 3,
+				centerTorso: 14,
+				rlTorso: 11,
+				rlArm: 7,
+				rlLeg: 11
+			},
+			50: {
+				tonnage: 4.5,
+				head: 3,
+				centerTorso: 16,
+				rlTorso: 12,
+				rlArm: 8,
+				rlLeg: 12
+			},
+			55: {
+				tonnage: 4.95,
+				head: 3,
+				centerTorso: 18,
+				rlTorso: 13,
+				rlArm: 9,
+				rlLeg: 13
+			},
+			60: {
+				tonnage: 5.25,
+				head: 3,
+				centerTorso: 20,
+				rlTorso: 14,
+				rlArm: 10,
+				rlLeg: 14
+			},
+			65: {
+				tonnage: 5.6875,
+				head: 3,
+				centerTorso: 21,
+				rlTorso: 15,
+				rlArm: 10,
+				rlLeg: 15
+			},
+			70: {
+				tonnage: 6.125,
+				head: 3,
+				centerTorso: 22,
+				rlTorso: 15,
+				rlArm: 11,
+				rlLeg: 15
+			},
+			75: {
+				tonnage: 6.5625,
+				head: 3,
+				centerTorso: 23,
+				rlTorso: 16,
+				rlArm: 12,
+				rlLeg: 16
+			},
+			80: {
+				tonnage: 7,
+				head: 3,
+				centerTorso: 25,
+				rlTorso: 17,
+				rlArm: 13,
+				rlLeg: 17
+			},
+			85: {
+				tonnage: 7.4375,
+				head: 3,
+				centerTorso: 27,
+				rlTorso: 18,
+				rlArm: 14,
+				rlLeg: 18
+			},
+			90: {
+				tonnage: 7.875,
+				head: 3,
+				centerTorso: 29,
+				rlTorso: 19,
+				rlArm: 15,
+				rlLeg: 19
+			},
+			95: {
+				tonnage: 8.3125,
+				head: 3,
+				centerTorso: 30,
+				rlTorso: 20,
+				rlArm: 16,
+				rlLeg: 20
+			},
+			100: {
+				tonnage: 8.75,
+				head: 3,
+				centerTorso: 31,
+				rlTorso: 21,
+				rlArm: 17,
+				rlLeg: 21
+			}
+		},
+
+		cost: 400,
+		introduced: 2500,
+		extinct: 0,
+		reintroduced: 0
+	},
+	{
 		name: "Endo-Steel",
 		tag: "endo-steel",
 		crits: {
